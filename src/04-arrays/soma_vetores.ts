@@ -18,7 +18,5 @@ console.log("VALORES = " + valores.join(", "));
 
 media = soma / qtd_num;
 
-console.log("Digite um numero: ");
-console.log("VALORES = ");
-console.log("SOMA = ");
-console.log("MEDIA = ");
+console.log("SOMA - " + soma.toFixed(2));
+console.log("MEDIA - " + media.toFixed(2));
